@@ -1,3 +1,3 @@
-##Proyecto Cv
+## Proyecto Cv
 
-##generar mi portafolio.
+Generar mi portafolio.
